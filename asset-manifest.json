@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jbkrajesh/jbkrajesh.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/jbkrajesh/jbkrajesh.github.io/static/js/main.af4e867a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/jbkrajesh/jbkrajesh.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/jbkrajesh/jbkrajesh.github.io/index.html",
+    "main.073c9b0a.css.map": "/jbkrajesh/jbkrajesh.github.io/static/css/main.073c9b0a.css.map",
+    "main.af4e867a.js.map": "/jbkrajesh/jbkrajesh.github.io/static/js/main.af4e867a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/jbkrajesh/jbkrajesh.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af4e867a.js"
+  ]
+}
